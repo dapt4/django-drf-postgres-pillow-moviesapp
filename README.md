@@ -36,7 +36,7 @@ finally the project run with:
 
 `$ python manage.py runserver`
 
-open your browser in: 
+open your browser or your REST Client in: 
 
-`localhost:8000/movie`\
-`localhost:8000/movie/<id>`
+`GET POST localhost:8000/movie`\
+`GET PUT DELETE localhost:8000/movie/<id>`
